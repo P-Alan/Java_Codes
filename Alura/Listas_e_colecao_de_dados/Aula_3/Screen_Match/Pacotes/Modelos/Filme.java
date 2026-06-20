@@ -1,8 +1,8 @@
-package Alura.Listas_e_colecao_de_dados.Aula_2.Screen_Match.Pacotes.Modelos;
+package Alura.Listas_e_colecao_de_dados.Aula_3.Screen_Match.Pacotes.Modelos;
 
-import Alura.Listas_e_colecao_de_dados.Aula_2.Screen_Match.Pacotes.Calculos.Classificavel;
+import Alura.Listas_e_colecao_de_dados.Aula_3.Screen_Match.Pacotes.Calculos.Classificavel;
 
-// Extends faz com que todo Filme seja um Título
+// Extends faz com que TODO filme seja um Titulo
 public class Filme extends Titulo implements Classificavel{
     private String diretor;
 
